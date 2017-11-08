@@ -13,8 +13,10 @@
 
 >**Logical Operators**
 
-1. && = "When both the condition is right"  
-
+1. && and operator= Its true When both the condition is true.
+2. || or operator= Its true When one of the condition is true
+3. ! (condition)= Its the complement of the condition if the condition is true operator will make the condition false if its false it will make it true
+4. 
 
 
 >**For loop**
