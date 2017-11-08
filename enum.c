@@ -1,7 +1,7 @@
 #include <stdio.h>
 //the enum is defined for the week which have following days
 
-enum week{mon,tue,wed,thur,fri,sat,sun};
+enum week{mon=1,tue,wed,thur,fri,sat,sun};
 
 
 int main()
